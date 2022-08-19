@@ -33,7 +33,7 @@ body {
 
 @media (max-width: 767px) {
     .nav .container {
-        width: 90%;
+        width: 86%;
     }
 }
 
@@ -113,3 +113,14 @@ body {
     cursor: pointer;
 }
 /* End Products */
+
+
+/* basket */
+
+.cart .container {
+    padding: 80px 0;
+}
+
+.cart .container img {
+    width: 100px;
+}
